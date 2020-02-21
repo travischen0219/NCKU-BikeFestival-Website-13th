@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 436">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1e5eaa;
+        opacity: 0.4;
+      }
+    </style>
+  </defs>
+  <title>軸</title>
+  <g id="圖層_2" data-name="圖層 2">
+    <g id="圖層_4" data-name="圖層 4">
+      <path class="cls-1" d="M5,436c-2.76,0-5-1.06-5-2.37V2.37C0,1.06,2.24,0,5,0s5,1.06,5,2.37V433.63C10,434.94,7.76,436,5,436Z"/>
+    </g>
+  </g>
+</svg>

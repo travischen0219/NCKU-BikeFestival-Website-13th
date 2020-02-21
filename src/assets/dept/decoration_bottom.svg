@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 238.01 1281.27">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #dd4a43;
+        stroke-miterlimit: 10;
+        stroke-width: 5px;
+      }
+    </style>
+  </defs>
+  <title>弧線</title>
+  <g id="圖層_2" data-name="圖層 2">
+    <g id="圖層_4" data-name="圖層 4">
+      <path class="cls-1" d="M235.93,1.38C88.41,224.12,2.5,491.22,2.5,778.38c0,176.83,32.58,346.06,92.06,502"/>
+    </g>
+  </g>
+</svg>

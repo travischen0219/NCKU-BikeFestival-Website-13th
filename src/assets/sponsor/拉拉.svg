@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 54">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1e5eaa;
+      }
+    </style>
+  </defs>
+  <title>拉拉</title>
+  <g id="圖層_2" data-name="圖層 2">
+    <g id="圖層_4" data-name="圖層 4">
+      <path class="cls-1" d="M7.5,54A7.5,7.5,0,0,1,0,46.5V7.5a7.5,7.5,0,0,1,15,0v39A7.5,7.5,0,0,1,7.5,54Z"/>
+    </g>
+  </g>
+</svg>

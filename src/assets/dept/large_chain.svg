@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="圖層_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 809 809" style="enable-background:new 0 0 809 809;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:none;stroke:#1E3373;stroke-width:37;stroke-miterlimit:10;}
+	.st2{fill:#DD4A43;}
+	.st3{fill:#FFFFFF;}
+	.st4{fill:none;stroke:#1E3373;stroke-width:6;stroke-miterlimit:10;stroke-dasharray:20,15;}
+</style>
+<rect id="backgroundrect" class="st0" width="809" height="809"/>
+<title>工作區域 1</title>
+<g>
+	<title>background</title>
+	<rect id="canvas_background" x="-1" y="-1" class="st0" width="809" height="809"/>
+</g>
+<g>
+	<title>Layer 1</title>
+	<g id="新圖">
+		<circle id="svg_1" class="st1" cx="404.5" cy="404.5" r="384.7"/>
+		<path id="svg_2" class="st2" d="M403.9,353.2L403.9,353.2c-5.3,0-10.6,0.8-15.6,2.5l0,0c-5.1,1.6-9.8,4.1-14.1,7.2l0,0
+			c-4.3,3.1-8.1,6.9-11.2,11.2l0,0c-3.1,4.3-5.5,9.1-7.2,14.1l0,0c-1.6,5.1-2.5,10.3-2.5,15.6l0,0c0,5.3,0.8,10.6,2.5,15.6l0,0
+			c1.6,5.1,4.1,9.8,7.2,14.1l0,0c3.1,4.3,6.9,8.1,11.2,11.2l0,0c4.3,3.1,9.1,5.6,14.1,7.2l0,0c5.1,1.6,10.3,2.5,15.6,2.5l0,0
+			c5.3,0,10.6-0.8,15.7-2.5l0,0c5.1-1.6,9.8-4.1,14.1-7.2l0,0c4.3-3.1,8.1-6.9,11.2-11.2l0,0c3.1-4.3,5.5-9.1,7.2-14.1l0,0
+			c1.6-5.1,2.5-10.3,2.5-15.6l0,0c0-5.3-0.8-10.6-2.5-15.6l0,0c-1.6-5.1-4.1-9.8-7.2-14.1l0,0c-3.1-4.3-6.9-8.1-11.2-11.2l0,0
+			c-4.3-3.1-9.1-5.6-14.1-7.2l0,0C414.5,354.1,409.2,353.2,403.9,353.2z"/>
+		<circle id="svg_3" class="st3" cx="404" cy="376.7" r="8.7"/>
+		<circle id="svg_4" class="st3" cx="404" cy="432.7" r="8.7"/>
+		<circle id="svg_5" class="st3" cx="379.3" cy="419.4" r="8.7"/>
+		<circle id="svg_6" class="st3" cx="379.7" cy="393.7" r="8.7"/>
+		<circle id="svg_7" class="st3" cx="428.3" cy="419.4" r="8.7"/>
+		<circle id="svg_8" class="st3" cx="428.7" cy="393.7" r="8.7"/>
+		<ellipse id="svg_9" class="st4" cx="407" cy="407" rx="345.2" ry="347.7"/>
+	</g>
+</g>
+</svg>
